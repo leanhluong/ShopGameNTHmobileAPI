@@ -1,12 +1,503 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\models\\authentication\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\models\\authentication\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\models\\authentication\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\models\\authentication\\loginresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\helpers\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\helpers\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\helpers\\datetimejsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\helpers\\datetimejsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\game\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\game\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\mappers\\gamemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\mappers\\gamemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\account\\accdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\account\\accdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\interfaces\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\respository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\respository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\respository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\respository\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\respository\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\respository\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\shopaccapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\shopaccapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\account\\createaccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\account\\createaccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\account\\updateaccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\account\\updateaccdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\interfaces\\igamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|c:\\users\\lenovo\\desktop\\source_c#\\repos\\shopgamenth\\shopaccapi\\dtos\\game\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14FAC1C-5318-4621-9735-A5ECF3016DF2}|ShopAccAPI\\ShopAccAPI.csproj|solutionrelative:shopaccapi\\dtos\\game\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "ShopAccAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:28:52.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\Authentication\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Models\\Authentication\\LoginResponseModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\Authentication\\LoginResponseModel.cs",
+              "RelativeToolTip": "ShopAccAPI\\Models\\Authentication\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:09:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\Authentication\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Models\\Authentication\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\Authentication\\LoginRequestModel.cs",
+              "RelativeToolTip": "ShopAccAPI\\Models\\Authentication\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:07:16.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Program.cs",
+              "RelativeToolTip": "ShopAccAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:54:34.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\User\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\User\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:23:34.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\User\\UserDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\User\\UserDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:17:55.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Services\\JwtService.cs",
+              "RelativeToolTip": "ShopAccAPI\\Services\\JwtService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T05:17:02.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ShopAccAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:40:09.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ShopAccAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:17:30.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopAccAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\appsettings.json",
+              "RelativeToolTip": "ShopAccAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T04:47:57.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DateOnlyJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Helpers\\DateOnlyJsonConverter.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Helpers\\DateOnlyJsonConverter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Helpers\\DateOnlyJsonConverter.cs",
+              "RelativeToolTip": "ShopAccAPI\\Helpers\\DateOnlyJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:56:26.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DateTimeJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Helpers\\DateTimeJsonConverter.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Helpers\\DateTimeJsonConverter.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Helpers\\DateTimeJsonConverter.cs",
+              "RelativeToolTip": "ShopAccAPI\\Helpers\\DateTimeJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:56:37.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Controllers\\GameController.cs",
+              "RelativeToolTip": "ShopAccAPI\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:20:44.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\User.cs",
+              "RelativeToolTip": "ShopAccAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:41:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Interfaces\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Interfaces\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Interfaces\\IAccountRepository.cs",
+              "RelativeToolTip": "ShopAccAPI\\Interfaces\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:40:55.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Account\\AccDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\Account\\AccDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Account\\AccDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\Account\\AccDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:37:58.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "ShopAccAPI\\Mappers\\UserMapper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:20:21.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ShopAccAPI\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:21:34.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Game\\GameDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\Game\\GameDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Game\\GameDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\Game\\GameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:21:19.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameMapper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Mappers\\GameMapper.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Mappers\\GameMapper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Mappers\\GameMapper.cs",
+              "RelativeToolTip": "ShopAccAPI\\Mappers\\GameMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:21:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Respository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Respository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Respository\\UserRepository.cs",
+              "RelativeToolTip": "ShopAccAPI\\Respository\\UserRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T23:25:35.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Respository\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Respository\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Respository\\AccountRepository.cs",
+              "RelativeToolTip": "ShopAccAPI\\Respository\\AccountRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:42:03.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Respository\\GameRepository.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Respository\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Respository\\GameRepository.cs",
+              "RelativeToolTip": "ShopAccAPI\\Respository\\GameRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:23:22.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateAccDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Account\\CreateAccDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\Account\\CreateAccDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Account\\CreateAccDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\Account\\CreateAccDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:07:50.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShopAccAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\ShopAccAPI.csproj",
+              "RelativeDocumentMoniker": "ShopAccAPI\\ShopAccAPI.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\ShopAccAPI.csproj",
+              "RelativeToolTip": "ShopAccAPI\\ShopAccAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T22:42:26.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShopAccAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-07T04:49:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateAccDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Account\\UpdateAccDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\Account\\UpdateAccDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Account\\UpdateAccDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\Account\\UpdateAccDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:09:16.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Interfaces\\IGameRepository.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Interfaces\\IGameRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Interfaces\\IGameRepository.cs",
+              "RelativeToolTip": "ShopAccAPI\\Interfaces\\IGameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:31:53.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Models\\Account.cs",
+              "RelativeToolTip": "ShopAccAPI\\Models\\Account.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T10:38:11.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Game\\CreateGameDto.cs",
+              "RelativeDocumentMoniker": "ShopAccAPI\\Dtos\\Game\\CreateGameDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\source_C#\\repos\\ShopGameNTH\\ShopAccAPI\\Dtos\\Game\\CreateGameDto.cs",
+              "RelativeToolTip": "ShopAccAPI\\Dtos\\Game\\CreateGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T09:19:57.09Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
